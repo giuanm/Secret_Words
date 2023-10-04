@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Secret_Words/static/css/main.2528e69e.css",
+    "main.js": "/Secret_Words/static/js/main.53714d3b.js",
+    "static/js/787.c74d0e55.chunk.js": "/Secret_Words/static/js/787.c74d0e55.chunk.js",
+    "static/media/backgroud_secretWord.jpg": "/Secret_Words/static/media/backgroud_secretWord.0a9cc59b761d909dd056.jpg",
+    "static/media/backgroud_gameover.jpg": "/Secret_Words/static/media/backgroud_gameover.9361a57b01f8d8307dd1.jpg",
+    "index.html": "/Secret_Words/index.html",
+    "main.2528e69e.css.map": "/Secret_Words/static/css/main.2528e69e.css.map",
+    "main.53714d3b.js.map": "/Secret_Words/static/js/main.53714d3b.js.map",
+    "787.c74d0e55.chunk.js.map": "/Secret_Words/static/js/787.c74d0e55.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2528e69e.css",
+    "static/js/main.53714d3b.js"
+  ]
+}
