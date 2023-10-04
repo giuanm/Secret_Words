@@ -1,7 +1,7 @@
 export const wordsList = {
     Good_Morning: ["Ohayo"],
     Thanks: ["Arigato"],
-    Good_Afternoon: ["Kon'nichiwa"],
+    Good_Afternoon: ["Konnichiwa"],
     Water: ["mizu"],
     Please: ["kudasai"],
     Shut_up: ["Damare"],
