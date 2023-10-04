@@ -1,0 +1,19 @@
+.gameOver {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin: 0;
+    padding: 0;
+    background: #2f2f2f url("../data/img/backgroud_gameover.jpg");
+    background-size: contain;
+    background-position: center 0;
+    background-repeat: no-repeat;
+    background-blend-mode: soft-light;
+  }
+
+body{
+    color: #009541;
+}
+
+h2{
+    color: #009541;
+    font-size: 3.5em;
+}
