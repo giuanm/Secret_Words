@@ -10,5 +10,6 @@ export const wordsList = {
     Yes: ["Hai"],
     Photo: ["Shashin"],
     Selfie: ["Serufi"],
-    joke: ["Jodan"]
+    Joke: ["Jodan"],
+    Rice: ["gohan"]
 };
